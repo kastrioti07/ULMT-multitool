@@ -105,7 +105,7 @@ goto menu
 
 
 :github
-start https://github.com/Bladesifyyy
+start https://github.com/kastrioti07
 goto :menu
 goto success
 
